@@ -1,0 +1,22 @@
+{
+  "name": "react-demo-hui",
+  "version": "1.0.0",
+  "description": "react-demo-hui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CellChen/react-demo-hui.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "CellChen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CellChen/react-demo-hui/issues"
+  },
+  "homepage": "https://github.com/CellChen/react-demo-hui#readme"
+}
